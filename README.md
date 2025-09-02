@@ -72,9 +72,17 @@ cd ../frontend
 npm install
 ```
 
-
 ### Lancez l’application React :
 ```
 npm start
 ```
+
+### ▶️ Utilisation  
+Accédez à l’interface React sur http://localhost:3000
+Vous pouvez :
+- Ajouter un livre via le formulaire 
+- Modifier ou supprimer un livre existant 
+- Consulter la liste des utilisateurs (si connecté) 
+- Gérer vos sessions avec Sign In / Sign Up  
+ 
 
